@@ -6,22 +6,9 @@
   </a>
   <h1>(New) Responsive Web Design</h1>
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css"></a>
-  <h3>Welcome to the Responsive Web Design Certification!</h3><br>
-</div>
-
-Throughout the course, I learned how developers use HTML (Hypertext Markup Language) for content and CSS (Cascading Style Sheets) for design. And the best part is, the course is beginner-friendly, so no matter if you have no prior programming experience, you can easily follow along.
-
-The first project I built was a cat photo app, which taught me the basics of HTML and CSS. Next, I learned more advanced techniques like CSS variables by building an adorable penguin and also best practices for accessibility by creating a quiz site.
-
-Finally, I learned how to create web pages that respond to different screen sizes using Flexbox to create a stunning photo gallery and Grid to create a magazine article layout.
-
-I highly recommend this course to anyone looking to start or improve their skills in responsive web design. Don't miss the chance to learn from the best teachers!
-
-## Projects 
- 
-<div align="center">
- <br />
- <table>
+  <h3>Welcome to the Responsive Web Design Certification!</h3>
+  <h2>Projects</h2>
+  <table>
   
   <!-------------------------------Header-------------------------------->
   
@@ -116,12 +103,10 @@ I highly recommend this course to anyone looking to start or improve their skill
   </tr>
   
  </table>
-</div>
-
-## Certificate
-
-<p align="center">
+ <h2>Certificate</h2>
+ <div align="center">
   <a href="https://freecodecamp.org/certification/fcc1082f1d2-0935-4dfc-87a9-226bd15a2abf/responsive-web-design">
     <img src="https://github.com/JpMunhozOliveira/Responsive-Web-Design/blob/main/Certificate.jpeg" alt="FreeCodeCamp" width="750" />
   </a>
-</p>
+ </div>
+</div>
